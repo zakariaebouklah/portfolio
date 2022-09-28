@@ -11,7 +11,7 @@ function Education(props) {
                  data-aos="fade-up" data-aos-duration="1000">
                 Education
             </div>
-            <div className="bg-light-one dark:bg-dark-one mx-12 sm:mx-3 my-0 relative rounded-md"
+            <div className="bg-light-one dark:bg-dark-one mx-12 sm:mx-3 relative rounded-md"
                  data-aos="fade-up" data-aos-duration="2000">
                 <img src={Student} alt="education" className="w-12 h-12 sm:w-7 sm:h-7 absolute -top-5 -right-5
                         sm:-right-3 sm:-top-3"/>
@@ -25,7 +25,7 @@ function Education(props) {
                         </div>
                     </div>
                     <div className="flex flex-row sm:px-1.5 justify-center space-x-28">
-                        <div className="font-extrabold sm:text-xs dark:text-dark-two">[2021-2024]</div>
+                        <div className="font-extrabold sm:text-xs text-light-two dark:text-dark-two">[2021-2024]</div>
                         <div className="sm:text-sm dark:text-white">Software Engineer Student</div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ function Education(props) {
                         </div>
                     </div>
                     <div className="flex flex-row sm:px-1.5 justify-center space-x-1 sm:space-x-3">
-                        <div className="font-extrabold sm:text-xs dark:text-dark-two">[2019-2021]</div>
+                        <div className="font-extrabold sm:text-xs text-light-two dark:text-dark-two">[2019-2021]</div>
                         <div className="sm:text-sm dark:text-white">Sciences and Techniques for the Engineer</div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@ function Education(props) {
                         <div className="sm:text-sm sm:font-bold sm:p-1.5 dark:text-white">Lala ASMAE High School</div>
                     </div>
                     <div className="flex flex-row sm:px-1.5 justify-center space-x-1 sm:space-x-3">
-                        <div className="font-extrabold sm:text-xs dark:text-dark-two">[2018-2019]</div>
+                        <div className="font-extrabold sm:text-xs text-light-two dark:text-dark-two">[2018-2019]</div>
                         <div className="sm:text-sm dark:text-white">Baccalaureate option Experimental Sciences</div>
                     </div>
                 </div>

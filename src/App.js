@@ -10,11 +10,14 @@ import HomeBody from "./components/HomeBody";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Education from "./components/Education";
+import Skills from "./components/Skills";
 
 function App() {
 
     const [isDark, setIsDark] = useState(false);
     const [image, setImage] = useState(lightModeImg);
+
+    document.querySelector("html").classList.add("scroll-smooth");
 
     useEffect(() => {
         AOS.init();
@@ -41,13 +44,16 @@ function App() {
     <div className="bg-light-one h-screen dark:bg-dark-one">
         <Navbar/>
         <Switcher onToggle={switching} source={image}/>
-        <div className="flex flex-col space-y-9 sm:space-y-0">
-            <div id="home" className="flex flex-col space-y-20 sm:h-screen">
+        <div className="flex flex-col sm:space-y-0">
+            <div id="home" className="flex flex-col space-y-20 sm:h-screen mb-9 sm:mb-0">
                 { isDark ? <HomeImageDark/> : <HomeImage/> }
                 <HomeBody/>
             </div>
-            <div id="education" className="bg-light-two dark:bg-dark-four h-fit">
+            <div id="education" className="bg-light-two dark:bg-dark-four h-fit py-[72px] sm:py-10">
                 <Education/>
+            </div>
+            <div id="skills" className="h-full py-24 sm:py-10 dark:bg-dark-one dark:pt-10">
+                <Skills/>
             </div>
         </div>
     </div>

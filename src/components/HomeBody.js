@@ -9,7 +9,7 @@ function HomeBody(props) {
             <div className="font-arvo text-center sm:text-3xl text-7xl dark:text-white sm:m-5">ZAKARIAE BOUKLAH</div>
             <div className="text-center text-3xl dark:text-white sm:m-5 sm:text-xl">Software Engineer</div>
             <div className="p-5">
-                <ul className="flex flex-row space-x-9 absolute left-1/2 -translate-x-1/2">
+                <ul className="flex flex-row space-x-9 absolute sm:relative sm:justify-center left-1/2 -translate-x-1/2">
                     <a target="_blank" href="https://github.com/zakariaebouklah">
                         <li>
                             <AiFillGithub size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
