@@ -11,6 +11,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Education from "./components/Education";
 import Skills from "./components/Skills";
+import Experience from "./components/Experience";
 
 function App() {
 
@@ -54,6 +55,9 @@ function App() {
             </div>
             <div id="skills" className="h-full py-24 sm:py-10 dark:bg-dark-one dark:pt-10">
                 <Skills/>
+            </div>
+            <div id="experience" className="h-full bg-light-one dark:bg-dark-five py-24">
+                <Experience/>
             </div>
         </div>
     </div>

@@ -27,7 +27,7 @@ function Navbar(props) {
                             <NavIcon text="Skills" icon={<GiSkills size="30"/>}/>
                         </li>
                     </a>
-                    <a href="#">
+                    <a href="#experience">
                         <li>
                             <NavIcon text="Experience" icon={<MdWidgets size="30"/>}/>
                         </li>

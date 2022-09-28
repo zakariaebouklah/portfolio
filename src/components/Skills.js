@@ -10,7 +10,7 @@ function Skills(props) {
             <div className="grid grid-cols-3 sm:grid-cols-1 sm:gap-14 gap-7 mx-12">
                 <div className="flex flex-col space-y-9">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Web Development</p>
-                    <div className="grid grid-cols-2 place-items-center" data-aos="fade-right" data-aos-duration="2000">
+                    <div className="grid grid-cols-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
                         <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
                              className="h-12 w-12" />
                         <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
@@ -20,13 +20,13 @@ function Skills(props) {
                         <img alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
                              className="h-12 w-12" />
                     </div>
-                    <div className="grid grid-cols-2 place-items-center" data-aos="fade-right" data-aos-duration="2000">
+                    <div className="grid grid-cols-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
                         <img alt="vanillaJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
                              className="w-12 h-12"/>
                         <img alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
                              className="w-12 h-12"/>
                     </div>
-                    <div className="grid grid-cols-2 place-items-center" data-aos="fade-right" data-aos-duration="2000">
+                    <div className="grid grid-cols-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
                         <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
                              className="w-12 h-12"/>
 
@@ -55,7 +55,7 @@ function Skills(props) {
                 </div>
                 <div className="flex flex-col space-y-9">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Databases & other stuffs</p>
-                    <div className="grid grid-cols-2 gap-1 place-items-center" data-aos="fade-left"
+                    <div className="grid grid-cols-2 gap-1 place-items-center" data-aos="fade-up"
                          data-aos-duration="2000">
                         <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
                              className="w-12 h-12" />
@@ -66,7 +66,7 @@ function Skills(props) {
                         <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
                              className="w-12 h-12" />
                     </div>
-                    <div className="grid grid-cols-2 gap-1 place-items-center" data-aos="fade-left"
+                    <div className="grid grid-cols-2 gap-1 place-items-center" data-aos="fade-up"
                          data-aos-duration="2000">
                         <img alt="Ai" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
                              className="w-12 h-12" />

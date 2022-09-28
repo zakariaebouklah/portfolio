@@ -11,6 +11,9 @@ module.exports = {
       'larger': '805px'
     },
     extend: {
+      boxShadow: {
+        '3xl': '0 3px 10px rgb(0 0 0 / 0.2)',
+      },
       fontFamily: {
         'arvo': ['arvo'],
         'script': ['League Script']
