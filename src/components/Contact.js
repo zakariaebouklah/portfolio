@@ -18,7 +18,7 @@ function Contact(props) {
                     <form
                         action={props.actionUrl}
                         method="POST"
-                        className="flex flex-col p-5 space-y-7 w-96 sm:w-72"
+                        className="flex flex-col p-5 space-y-7 w-full sm:w-72"
                         id="my-form"
                         data-aos="fade-up"
                         data-aos-duration="1000"
