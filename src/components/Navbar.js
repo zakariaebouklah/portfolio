@@ -3,14 +3,13 @@ import '../index.css';
 import { SiHomeadvisor,  } from "react-icons/si";
 import { GiSpellBook, GiSkills } from "react-icons/gi";
 import {MdWidgets, MdLocalLaundryService} from "react-icons/md";
-import Switcher from "./Switcher";
 
 function Navbar(props) {
 
     return (
         <nav className="fixed w-screen h-24 flex flex-row justify-between p-5 bg-white dark:bg-dark-five z-50">
             <div className="w-1/4 font-script text-7xl sm:text-5xl text-center font-extrabold dark:text-dark-four">Zakariae</div>
-            <div className="w-3/4 sm:hidden">
+            <div className="w-3/4 sm:hidden px-9">
                 <ul className="flex flex-row space-x-11 justify-end">
                     <a href="#home">
                         <li>
@@ -32,7 +31,7 @@ function Navbar(props) {
                             <NavIcon text="Experience" icon={<MdWidgets size="30"/>}/>
                         </li>
                     </a>
-                    <a href="#">
+                    <a href="#contact">
                         <li>
                             <NavIcon text="Contact" icon={<MdLocalLaundryService size="30"/>}/>
                         </li>

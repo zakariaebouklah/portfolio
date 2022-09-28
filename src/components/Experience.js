@@ -7,7 +7,7 @@ import MemoGameSnippet from "../images/MemoGameSnippet.PNG";
 
 function Experience(props) {
     return (
-        <div>
+        <div className="py-16">
             <div className="text-center dark:text-white py-2 mx-[17px] text-6xl sm:text-4xl font-script font-extrabold"
                  data-aos="fade-up" data-aos-duration="1000">
                 Experience
