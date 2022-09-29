@@ -66,4 +66,12 @@
         dark:border-b-dark-four
         ;
     }
+
+    .fadeIn {
+        @apply bg-black h-screen overflow-x-hidden overflow-y-hidden z-50 opacity-100 transition-opacity ease-in-out;
+    }
+
+    .fadeOut {
+        @apply bg-black h-screen overflow-x-hidden overflow-y-hidden z-50 opacity-0 transition-opacity ease-in-out;
+    }
 }
