@@ -20,12 +20,14 @@ function Skills(props) {
                         <img alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
                              className="h-12 w-12" />
                     </div>
+                    <hr/>
                     <div className="grid grid-cols-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
                         <img alt="vanillaJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
                              className="w-12 h-12"/>
                         <img alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
                              className="w-12 h-12"/>
                     </div>
+                    <hr/>
                     <div className="grid grid-cols-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
                         <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
                              className="w-12 h-12"/>
@@ -65,7 +67,11 @@ function Skills(props) {
 
                         <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
                              className="w-12 h-12" />
+
+                        <img alt="firebase" src="https://img.icons8.com/color/344/firebase.png"
+                             className="w-12 h-12" />
                     </div>
+                    <hr/>
                     <div className="grid grid-cols-2 gap-1 place-items-center" data-aos="fade-up"
                          data-aos-duration="2000">
                         <img alt="Ai" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
