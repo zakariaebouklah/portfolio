@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.be48b580.css",
-    "main.js": "/static/js/main.ade06f23.js",
-    "static/media/WeatherSnippet.PNG": "/static/media/WeatherSnippet.31449e07b78be1493153.PNG",
-    "static/media/LurigorSnippet.PNG": "/static/media/LurigorSnippet.2d65ef40b1d7e9080ef6.PNG",
-    "static/media/PortfolioSnippet.PNG": "/static/media/PortfolioSnippet.7cbd22ef92cc5110ab62.PNG",
-    "static/media/MemoGameSnippet.PNG": "/static/media/MemoGameSnippet.97ad0dc4fbf8b83af0d5.PNG",
-    "static/media/DashUI.png": "/static/media/DashUI.e04c381c8ba7469f8096.png",
-    "static/media/bg.jpg": "/static/media/bg.5ecca5b82b37f5b21a6c.jpg",
-    "static/media/prototype.png": "/static/media/prototype.8d03523e1ee948f9af56.png",
-    "static/media/bg-light.jpg": "/static/media/bg-light.20e73b70f4528d0e6b9f.jpg",
-    "static/media/pass.png": "/static/media/pass.e4841fe0094ffb7fe69a.png",
-    "static/media/student.png": "/static/media/student.accfc9aee359f77deddd.png",
-    "static/media/studying.png": "/static/media/studying.e2d564da08229cdd1047.png",
-    "static/media/Z.png": "/static/media/Z.ffd6cbe2b2affa8ea172.png",
-    "static/media/programming.png": "/static/media/programming.b7a4759f96fb16b869a1.png",
-    "static/media/half-moon.png": "/static/media/half-moon.a19e3b93b71ed46b3178.png",
-    "static/media/sun.png": "/static/media/sun.6d48da504f4816188c8d.png",
-    "index.html": "/index.html",
-    "main.be48b580.css.map": "/static/css/main.be48b580.css.map",
-    "main.ade06f23.js.map": "/static/js/main.ade06f23.js.map"
+    "main.css": "/portfolio/static/css/main.be48b580.css",
+    "main.js": "/portfolio/static/js/main.d90b3535.js",
+    "static/media/WeatherSnippet.PNG": "/portfolio/static/media/WeatherSnippet.31449e07b78be1493153.PNG",
+    "static/media/LurigorSnippet.PNG": "/portfolio/static/media/LurigorSnippet.2d65ef40b1d7e9080ef6.PNG",
+    "static/media/PortfolioSnippet.PNG": "/portfolio/static/media/PortfolioSnippet.7cbd22ef92cc5110ab62.PNG",
+    "static/media/MemoGameSnippet.PNG": "/portfolio/static/media/MemoGameSnippet.97ad0dc4fbf8b83af0d5.PNG",
+    "static/media/DashUI.png": "/portfolio/static/media/DashUI.e04c381c8ba7469f8096.png",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.5ecca5b82b37f5b21a6c.jpg",
+    "static/media/prototype.png": "/portfolio/static/media/prototype.8d03523e1ee948f9af56.png",
+    "static/media/bg-light.jpg": "/portfolio/static/media/bg-light.20e73b70f4528d0e6b9f.jpg",
+    "static/media/pass.png": "/portfolio/static/media/pass.e4841fe0094ffb7fe69a.png",
+    "static/media/student.png": "/portfolio/static/media/student.accfc9aee359f77deddd.png",
+    "static/media/studying.png": "/portfolio/static/media/studying.e2d564da08229cdd1047.png",
+    "static/media/Z.png": "/portfolio/static/media/Z.ffd6cbe2b2affa8ea172.png",
+    "static/media/programming.png": "/portfolio/static/media/programming.b7a4759f96fb16b869a1.png",
+    "static/media/half-moon.png": "/portfolio/static/media/half-moon.a19e3b93b71ed46b3178.png",
+    "static/media/sun.png": "/portfolio/static/media/sun.6d48da504f4816188c8d.png",
+    "index.html": "/portfolio/index.html",
+    "main.be48b580.css.map": "/portfolio/static/css/main.be48b580.css.map",
+    "main.d90b3535.js.map": "/portfolio/static/js/main.d90b3535.js.map"
   },
   "entrypoints": [
     "static/css/main.be48b580.css",
-    "static/js/main.ade06f23.js"
+    "static/js/main.d90b3535.js"
   ]
 }
