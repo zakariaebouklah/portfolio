@@ -3,6 +3,8 @@ import LaboSnippet from "../images/LurigorSnippet.PNG";
 import WeatherSnippet from "../images/WeatherSnippet.PNG";
 import PortfolioSnippet from "../images/PortfolioSnippet.PNG";
 import MemoGameSnippet from "../images/MemoGameSnippet.PNG";
+import DashBoardSnippet from "../images/DashUI.png";
+import PasswordGeneratorSnippet from "../images/pass.png";
 
 
 function Experience(props) {
@@ -39,6 +41,20 @@ function Experience(props) {
                     <div className="flex flex-col space-y-5 bg-white dark:bg-black p-5 h-64 rounded-md">
                         <img className="w-[307px] h-[145px]" src={MemoGameSnippet} alt="Ex4"/>
                         <p className="text-center font-semibold dark:text-white text-xl">Memory Game With Memes</p>
+                    </div>
+                </a>
+                <a data-aos="fade-up" data-aos-duration="1000"
+                   className="shadow-3xl" href="https://dashboard-sample-zakariaebouklah.vercel.app/">
+                    <div className="flex flex-col space-y-5 bg-white dark:bg-black p-5 h-64 rounded-md">
+                        <img className="w-[307px] h-[145px]" src={DashBoardSnippet} alt="Ex4"/>
+                        <p className="text-center font-semibold dark:text-white text-xl">Sample Dashboard UI</p>
+                    </div>
+                </a>
+                <a data-aos="fade-up" data-aos-duration="1000"
+                   className="shadow-3xl" href="https://password-generator-zakariaebouklah.vercel.app/">
+                    <div className="flex flex-col space-y-5 bg-white dark:bg-black p-5 h-64 rounded-md">
+                        <img className="w-[307px] h-[145px]" src={PasswordGeneratorSnippet} alt="Ex4"/>
+                        <p className="text-center font-semibold dark:text-white text-xl">Password Generator</p>
                     </div>
                 </a>
 

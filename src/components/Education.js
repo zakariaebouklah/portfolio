@@ -11,7 +11,7 @@ function Education(props) {
                  data-aos="fade-up" data-aos-duration="1000">
                 Education
             </div>
-            <div className="bg-light-one dark:bg-dark-one mx-12 sm:mx-3 relative rounded-md"
+            <div className="bg-light-one shadow-3xl dark:bg-dark-one mx-12 sm:mx-3 relative rounded-md p-4"
                  data-aos="fade-up" data-aos-duration="2000">
                 <img src={Student} alt="education" className="w-12 h-12 sm:w-7 sm:h-7 absolute -top-5 -right-5
                         sm:-right-3 sm:-top-3"/>
