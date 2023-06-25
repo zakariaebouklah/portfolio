@@ -30,6 +30,7 @@ module.exports = {
         'dark-three': "#f8f8ff",
         'dark-four': "hsl(248, 52.5%, 43.7%)",
         'dark-five': "#331940",
+        'dark-six': "hsl(240,3%,39%)",
       },
       animation: {
         'rotation': 'spinner 2s ease-in-out infinite'
