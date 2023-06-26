@@ -10,7 +10,7 @@ function Skills(props) {
 
             <div className="grid grid-cols-2 sm:grid-cols-1 sm:gap-14 gap-7 mx-12">
 
-                <div className="dark:hover:bg-dark-six hover:bg-light-one hover:py-7 hover:rounded-xl hover:transition-all hover:duration-200
+                <div className="dark:hover:bg-dark-six hover:bg-light-one py-7 hover:rounded-xl hover:transition-all hover:duration-200
                 hover:ease-in-out flex flex-col space-y-12">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Programming</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
@@ -31,7 +31,7 @@ function Skills(props) {
                     </div>
                 </div>
 
-                <div className="dark:hover:bg-dark-six hover:bg-light-one hover:py-7 hover:rounded-xl hover:transition-all hover:duration-200
+                <div className="dark:hover:bg-dark-six hover:bg-light-one py-7 hover:rounded-xl hover:transition-all hover:duration-200
                 hover:ease-in-out flex flex-col space-y-12">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Web Development</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
@@ -48,7 +48,7 @@ function Skills(props) {
                     </div>
                 </div>
 
-                <div className="dark:hover:bg-dark-six hover:bg-light-one hover:py-7 hover:rounded-xl hover:transition-all hover:duration-200
+                <div className="dark:hover:bg-dark-six hover:bg-light-one py-7 hover:rounded-xl hover:transition-all hover:duration-200
                 hover:ease-in-out flex flex-col space-y-12">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Frameworks & Libraries</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
@@ -68,7 +68,7 @@ function Skills(props) {
                     </div>
                 </div>
 
-                <div className="dark:hover:bg-dark-six hover:bg-light-one hover:py-7 hover:rounded-xl hover:transition-all hover:duration-200
+                <div className="dark:hover:bg-dark-six hover:bg-light-one py-7 hover:rounded-xl hover:transition-all hover:duration-200
                 hover:ease-in-out flex flex-col space-y-12">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Databases</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
@@ -88,7 +88,7 @@ function Skills(props) {
                     </div>
                 </div>
 
-                <div className="dark:hover:bg-dark-six hover:bg-light-one hover:py-7 hover:rounded-xl hover:transition-all hover:duration-200
+                <div className="dark:hover:bg-dark-six hover:bg-light-one py-7 hover:rounded-xl hover:transition-all hover:duration-200
                 hover:ease-in-out flex flex-col space-y-12">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Dev Tools</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
@@ -112,7 +112,7 @@ function Skills(props) {
                     </div>
                 </div>
 
-                <div className="dark:hover:bg-dark-six hover:bg-light-one hover:py-7 hover:rounded-xl hover:transition-all hover:duration-200
+                <div className="dark:hover:bg-dark-six hover:bg-light-one py-7 hover:rounded-xl hover:transition-all hover:duration-200
                 hover:ease-in-out flex flex-col space-y-12">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Mobile Development</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
@@ -129,7 +129,7 @@ function Skills(props) {
                     </div>
                 </div>
 
-                <div className="dark:hover:bg-dark-six hover:bg-light-one hover:py-7 hover:rounded-xl hover:transition-all hover:duration-200
+                <div className="dark:hover:bg-dark-six hover:bg-light-one py-7 hover:rounded-xl hover:transition-all hover:duration-200
                 hover:ease-in-out flex flex-col space-y-12">
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Design Tools</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
