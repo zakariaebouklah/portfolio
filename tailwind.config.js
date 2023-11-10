@@ -28,7 +28,7 @@ module.exports = {
         'dark-one': "#242424",
         'dark-two': "#FCF951FF",
         'dark-three': "#f8f8ff",
-        'dark-four': "hsl(248, 52.5%, 43.7%)",
+        'dark-four': "hsl(247,49%,27%)",
         'dark-five': "#331940",
         'dark-six': "hsl(240,3%,39%)",
       },

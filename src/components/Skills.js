@@ -16,16 +16,16 @@ function Skills(props) {
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
                          data-aos-duration="2000">
 
-                        <img alt="C" className="w-12 h-12"
+                        <img alt="C" className="w-12 h-12" title="C"
                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
                         <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="Python"/>
 
-                        <img alt="C++" className="w-12 h-12"
+                        <img alt="C++" className="w-12 h-12" title="C++"
                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
-                        <img alt="C#" className="w-12 h-12"
+                        <img alt="C#" className="w-12 h-12" title="C#"
                              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
                     </div>
@@ -36,15 +36,18 @@ function Skills(props) {
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Web Development</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
                         <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-                             className="h-12 w-12" />
+                             className="h-12 w-12" title="HTML" />
                         <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-                             className="h-12 w-12" />
+                             className="h-12 w-12" title="CSS" />
                         <img alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-                             className="h-12 w-12" />
+                             className="h-12 w-12" title="Tailwind" />
                         <img alt="vanillaJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="JavaScript" />
                         <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="PHP" />
+                        <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                             className="w-12 h-12" title="TypeScript"/>
+
                     </div>
                 </div>
 
@@ -53,17 +56,20 @@ function Skills(props) {
                     <p className="font-bold text-3xl text-center dark:text-dark-two">Frameworks & Libraries</p>
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up" data-aos-duration="2000">
                         <img alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="React"/>
                         <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="Angular"/>
                         <img alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="jQuery"/>
                         <img alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="NextJS"/>
                         <img alt="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="SymfonyPHP"/>
                         <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="NestJS"/>
+                        <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+                             className="w-12 h-12" title="FastAPI"/>
+
 
                     </div>
                 </div>
@@ -74,16 +80,20 @@ function Skills(props) {
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
                          data-aos-duration="2000">
                         <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="MySQL" />
 
                         <img alt="firebase" src="https://img.icons8.com/color/344/firebase.png"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="Firebase" />
 
                         <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="SQLite" />
 
                         <img alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="PostgreSQL"/>
+
+                        <img alt="MongoDB" className="w-12 h-12" title="MongoDB"
+                             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
 
                     </div>
                 </div>
@@ -94,20 +104,23 @@ function Skills(props) {
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
                          data-aos-duration="2000">
                         <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="Linux" />
 
                         <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="GIT" />
 
                         <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="GitHub" />
+
+                        <img className="w-12 h-12" title="GitLab" alt="GitLab"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 
 
                         <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="Docker"/>
 
                         <img alt="JupyterNotebooks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="JupyterNotebooks"/>
 
                     </div>
                 </div>
@@ -119,11 +132,11 @@ function Skills(props) {
                          data-aos-duration="2000">
 
                         <img alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="Android Studio"/>
                         <img alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="Android"/>
                         <img alt="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
-                             className="w-12 h-12"/>
+                             className="w-12 h-12" title="Ionic"/>
 
 
                     </div>
@@ -135,13 +148,13 @@ function Skills(props) {
                     <div className="grid grid-cols-2 gap-2 place-items-center" data-aos="fade-up"
                          data-aos-duration="2000">
                         <img alt="Ai" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="Adobe Illustrator" />
 
                         <img alt="Ps" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="Adobe Photoshop" />
 
                         <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-                             className="w-12 h-12" />
+                             className="w-12 h-12" title="Figma" />
                     </div>
                 </div>
 

@@ -16,7 +16,7 @@ function Experience(props) {
             </div>
             <div className="grid grid-cols-4 gap-3 place-items-center mx-12 sm:grid-cols-1 py-7">
                 <a data-aos="fade-up" data-aos-duration="1000"
-                   className="shadow-3xl" href="#">
+                   className="shadow-3xl" href="https://github.com/zakariaebouklah/web_site.git">
                     <div className="flex flex-col space-y-5 bg-white dark:bg-black p-5 h-64 rounded-md">
                         <img className="w-[307px] h-[145px]" src={LaboSnippet} alt="Ex1"/>
                         <p className="text-center font-semibold dark:text-white text-xl">LURIGOR</p>
