@@ -1,7 +1,6 @@
 import React from 'react';
-import {AiFillGithub} from "react-icons/ai";
-import {SiFacebook, SiCodepen, SiLinkedin} from "react-icons/si";
-import {CgInstagram} from "react-icons/cg";
+import {AiFillGithub, AiFillGitlab} from "react-icons/ai";
+import {SiCodepen, SiLinkedin} from "react-icons/si";
 
 function HomeBody(props) {
     return (
@@ -15,9 +14,9 @@ function HomeBody(props) {
                             <AiFillGithub size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
                         </li>
                     </a>
-                    <a target="_blank" href="https://www.facebook.com/profile.php?id=100010224937972">
+                    <a target="_blank" href="https://gitlab.com/zakariae.bouklah18">
                         <li>
-                            <SiFacebook size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
+                            <AiFillGitlab size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
                         </li>
                     </a>
                     <a target="_blank" href="https://codepen.io/zakibouklah">
@@ -28,11 +27,6 @@ function HomeBody(props) {
                     <a target="_blank" href="https://www.linkedin.com/in/zakariae-bouklah-8b7a07222/">
                         <li>
                             <SiLinkedin size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
-                        </li>
-                    </a>
-                    <a target="_blank" href="https://www.instagram.com/zakibouklah/">
-                        <li>
-                            <CgInstagram size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
                         </li>
                     </a>
                 </ul>

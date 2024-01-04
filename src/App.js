@@ -102,7 +102,7 @@ function App() {
                   <Navbar/>
                   <Switcher onToggle={switching} source={image}/>
                   <div className="flex flex-col sm:space-y-0">
-                      <div id="home" className="flex flex-col space-y-20 sm:h-screen mb-9 sm:mb-0"
+                      <div id="home" className="flex flex-col space-y-20 sm:h-screen mb-4 sm:mb-0"
                             data-aos="fade-up" data-aos-duration="1000">
                           { isDark ? <HomeImageDark/> : <HomeImage/> }
                           <HomeBody/>
