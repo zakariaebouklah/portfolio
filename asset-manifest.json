@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3b7e03ec.css",
-    "main.js": "/portfolio/static/js/main.dd15a4ff.js",
+    "main.css": "/portfolio/static/css/main.8df9fe5b.css",
+    "main.js": "/portfolio/static/js/main.9cbdea41.js",
     "static/media/WeatherSnippet.PNG": "/portfolio/static/media/WeatherSnippet.31449e07b78be1493153.PNG",
     "static/media/LurigorSnippet.PNG": "/portfolio/static/media/LurigorSnippet.2d65ef40b1d7e9080ef6.PNG",
     "static/media/PortfolioSnippet.PNG": "/portfolio/static/media/PortfolioSnippet.7cbd22ef92cc5110ab62.PNG",
@@ -18,11 +18,11 @@
     "static/media/half-moon.png": "/portfolio/static/media/half-moon.a19e3b93b71ed46b3178.png",
     "static/media/sun.png": "/portfolio/static/media/sun.6d48da504f4816188c8d.png",
     "index.html": "/portfolio/index.html",
-    "main.3b7e03ec.css.map": "/portfolio/static/css/main.3b7e03ec.css.map",
-    "main.dd15a4ff.js.map": "/portfolio/static/js/main.dd15a4ff.js.map"
+    "main.8df9fe5b.css.map": "/portfolio/static/css/main.8df9fe5b.css.map",
+    "main.9cbdea41.js.map": "/portfolio/static/js/main.9cbdea41.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b7e03ec.css",
-    "static/js/main.dd15a4ff.js"
+    "static/css/main.8df9fe5b.css",
+    "static/js/main.9cbdea41.js"
   ]
 }
