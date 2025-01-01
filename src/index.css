@@ -22,7 +22,7 @@
         cursor-pointer
         dark:bg-dark-four
         dark:bg-opacity-30
-        dark:text-dark-two
+        dark:text-light-one
         dark:hover:bg-dark-two
         dark:hover:text-dark-one;
     }

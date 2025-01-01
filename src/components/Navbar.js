@@ -8,7 +8,7 @@ function Navbar(props) {
 
     return (
         <nav className="fixed w-screen h-24 flex flex-row justify-between p-5 bg-white dark:bg-dark-five z-40">
-            <div className="w-1/4 font-script text-7xl sm:text-5xl text-center font-extrabold dark:text-dark-four">Zakariae</div>
+            <div className="w-1/4 font-script text-7xl sm:text-5xl text-center font-extrabold dark:text-light-one">Zakariae</div>
             <div className="w-3/4 sm:hidden px-9">
                 <ul className="flex flex-row space-x-11 justify-end">
                     <a href="#home">

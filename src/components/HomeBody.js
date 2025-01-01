@@ -11,22 +11,22 @@ function HomeBody(props) {
                 <ul className="flex flex-row space-x-9 absolute sm:relative sm:justify-center left-1/2 -translate-x-1/2">
                     <a target="_blank" href="https://github.com/zakariaebouklah">
                         <li>
-                            <AiFillGithub size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
+                            <AiFillGithub size="30" className="hover:text-light-three hover:animate-rotation dark:text-light-one dark:hover:text-dark-two"/>
                         </li>
                     </a>
                     <a target="_blank" href="https://gitlab.com/zakariae.bouklah18">
                         <li>
-                            <AiFillGitlab size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
+                            <AiFillGitlab size="30" className="hover:text-light-three hover:animate-rotation dark:text-light-one dark:hover:text-dark-two"/>
                         </li>
                     </a>
                     <a target="_blank" href="https://codepen.io/zakibouklah">
                         <li>
-                            <SiCodepen size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
+                            <SiCodepen size="30" className="hover:text-light-three hover:animate-rotation dark:text-light-one dark:hover:text-dark-two"/>
                         </li>
                     </a>
                     <a target="_blank" href="https://www.linkedin.com/in/zakariae-bouklah-8b7a07222/">
                         <li>
-                            <SiLinkedin size="30" className="hover:text-light-three hover:animate-rotation dark:text-dark-four dark:hover:text-dark-two"/>
+                            <SiLinkedin size="30" className="hover:text-light-three hover:animate-rotation dark:text-light-one dark:hover:text-dark-two"/>
                         </li>
                     </a>
                 </ul>

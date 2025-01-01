@@ -24,11 +24,11 @@ function Contact(props) {
                         data-aos-duration="1000"
                     >
                         <label className="flex flex-col">
-                            Your email address:
+                            <span className="text-dark-one dark:text-light-one">Your email address:</span>
                             <input type="email" name="email" className="mt-2.5 bg-black/5 dark:bg-black/25 justify-between p-3.5 focus:outline-none shadow-inner rounded-xl"/>
                         </label>
                         <label className="flex flex-col">
-                            Your message:
+                            <span className="text-dark-one dark:text-light-one">Your message:</span>
                             <textarea name="message" className="mt-2.5 bg-black/5 dark:bg-black/25 justify-between p-2 focus:outline-none shadow-inner rounded-xl"></textarea>
                         </label>
                         <button type="submit" className="bg-teal-700 hover:bg-light-two dark:bg-dark-two dark:hover:bg-dark-two/80 dark:text-dark-one my-14 w-1/4 text-white text-xl sm:text-sm p-3.5 rounded-md transition-all ease-in-out duration-300">
